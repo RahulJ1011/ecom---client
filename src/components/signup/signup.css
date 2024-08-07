@@ -1,0 +1,13 @@
+.account
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: 500;
+}
+.account:hover
+{
+    color:rgb(103, 28, 124);
+    
+    text-decoration: underline;
+}
